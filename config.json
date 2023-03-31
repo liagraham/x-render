@@ -11,7 +11,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "0b63a3bd-d0e3-4026-9507-79c7df4ec1ab9",
+                        "id": "0b63a3bd-d0e3-4026-9507-79c7df4ec1ab",
                         "flow": "xtls-rprx-direct"
                     }
                 ],
@@ -66,7 +66,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "0b63a3bd-d0e3-4026-9507-79c7df4ec1ab9",
+                        "id": "0b63a3bd-d0e3-4026-9507-79c7df4ec1ab",
                         "level": 0
                     }
                 ],
